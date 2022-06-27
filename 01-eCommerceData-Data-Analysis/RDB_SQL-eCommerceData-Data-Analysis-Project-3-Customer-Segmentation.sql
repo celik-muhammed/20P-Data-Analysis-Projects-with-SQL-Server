@@ -82,7 +82,7 @@ GROUP BY Cust_id ,Customer_Name	,Count_order
 ORDER BY 1,2
 GO
 
-
+--First Create #tempTable
 SELECT	customersCategorise, COUNT(Cust_id) CategoriseCount
 FROM	#tempTable
 GROUP BY customersCategorise

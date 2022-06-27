@@ -201,11 +201,11 @@ WHERE	parent_object_id = (OBJECT_ID('market_fact'))
 --CREATE CLUSTERED INDEX market_fact-Cust_id
 CREATE CLUSTERED INDEX CLS_INX_1 ON market_fact (Cust_id);
 
---SEE KEYs in TABLE
+--SEE KEYs of the TABLE
 EXECUTE sp_helpindex market_fact;
 GO
 
---SEE SIZEs in TABLE
+--SEE SIZEs of the TABLE
 EXEC Sp_spaceused market_fact;
 GO
 
