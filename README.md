@@ -12,6 +12,7 @@
 [github_pages]: https://celik-muhammed.github.io/ "GitHub Pages"
 </div>
 
+
 <h3 align='right'>
   
 [20CS-Data-Analysis-Case-Studies-with-SQL-Server](https://github.com/celik-muhammed/20CS-Data-Analysis-Case-Studies-with-SQL-Server/blob/master/README.md)
