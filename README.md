@@ -16,6 +16,8 @@
 <h3 align='right'>
   
 [20CS-Data-Analysis-Case-Studies-with-SQL-Server](https://github.com/celik-muhammed/20CS-Data-Analysis-Case-Studies-with-SQL-Server/blob/master/README.md)
+
+[20 SQL](https://github.com/celik-muhammed/20-SQL/blob/master/README.md)
 </h3>
 
 
